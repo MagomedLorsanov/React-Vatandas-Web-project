@@ -1,0 +1,6 @@
+1) registration page + avatar selection
+2) listing posts in dashboard
+3) post card design (change icon)
+4) notification page ( create component)
+5) add post page (add back button)
+6) splash screen (create)
