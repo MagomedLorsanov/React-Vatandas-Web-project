@@ -1,3 +1,12 @@
+The goal of this project is to help people become more self-aware of issues surrounding them and raise attention of the local authorities towards fixing them. Users of mobile application can take a photo of an issue and create a new post to help someone. 
+If something danger was captured, mobile users will also receive push notifications about high priority cases like fire, shooting, terror attack, and other “Force Majeure” situations happening nearby. 
+By pressing ‘Importance’ users will be able to rate other issues to show importance to authorities. This will help people feel more secure, authorities to be more aware of problems in their area. Authority users can change a status of  issues to ‘solved’ and to other suitable status or remove it if it is fake.
+Mobile application provides you option to filter an issue if users want to see emergency issue.
+In web application we can create account and choose your avatar photo. Mobile and web applications are secure and ease to use. I used technologies such as ReactJS, React Native and Firebase in implementation phase of the project.
+
+In web React application individual users can see posts by choosing their locations however Governmental Organization can change a status of a post or remove a post if it is fake.  
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
